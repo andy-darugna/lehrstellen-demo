@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+
+# Secrets – never commit these
+*.json
+!**/package.json
+.env
+
+# dbt
+dbt/target/
+dbt/dbt_packages/
+dbt/logs/
+
+# Airflow / Astro
+airflow/.astro/
+airflow/logs/

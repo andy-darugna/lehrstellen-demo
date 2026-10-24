@@ -1,0 +1,33 @@
+beruf_id,beruf,abschluss,berufsfeld,dauer_jahre,min_schultyp
+B01,Kaufmann/Kauffrau,EFZ,"Wirtschaft, Verwaltung",3,Sek B
+B02,Informatiker/in Applikationsentwicklung,EFZ,Informatik,4,Sek A
+B03,Informatiker/in Plattformentwicklung,EFZ,Informatik,4,Sek A
+B04,Mediamatiker/in,EFZ,Informatik,4,Sek A
+B05,Fachmann/Fachfrau Gesundheit,EFZ,Gesundheit,3,Sek B
+B06,Medizinische/r Praxisassistent/in,EFZ,Gesundheit,3,Sek B
+B07,Dentalassistent/in,EFZ,Gesundheit,3,Sek B
+B08,Fachmann/Fachfrau Betreuung,EFZ,"Bildung, Soziales",3,Sek B
+B09,Detailhandelsfachmann/-frau,EFZ,"Verkauf, Einkauf",3,Sek B
+B10,Detailhandelsassistent/in,EBA,"Verkauf, Einkauf",2,Sek C
+B11,Elektroinstallateur/in,EFZ,Elektrotechnik,4,Sek B
+B12,Automatiker/in,EFZ,Elektrotechnik,4,Sek A
+B13,Polymechaniker/in,EFZ,"Metall, Maschinen",4,Sek A
+B14,Produktionsmechaniker/in,EFZ,"Metall, Maschinen",3,Sek B
+B15,Konstrukteur/in,EFZ,"Planung, Konstruktion",4,Sek A
+B16,Zeichner/in Fachrichtung Architektur,EFZ,"Planung, Konstruktion",4,Sek A
+B17,Laborant/in,EFZ,"Chemie, Physik",3,Sek A
+B18,Koch/Köchin,EFZ,Gastgewerbe,3,Sek B
+B19,Küchenangestellte/r,EBA,Gastgewerbe,2,Sek C
+B20,Bäcker/in-Konditor/in-Confiseur/in,EFZ,Ernährung,3,Sek B
+B21,Logistiker/in,EFZ,"Verkehr, Logistik",3,Sek B
+B22,Logistiker/in,EBA,"Verkehr, Logistik",2,Sek C
+B23,Automobil-Fachmann/-Fachfrau,EFZ,Fahrzeuge,3,Sek B
+B24,Automobil-Mechatroniker/in,EFZ,Fahrzeuge,4,Sek A
+B25,Schreiner/in,EFZ,"Holz, Innenausbau",4,Sek B
+B26,Maurer/in,EFZ,Bau,3,Sek C
+B27,Sanitärinstallateur/in,EFZ,Gebäudetechnik,4,Sek B
+B28,Coiffeur/Coiffeuse,EFZ,"Schönheit, Sport",3,Sek B
+B29,Grafiker/in,EFZ,"Gestaltung, Kunst",4,Sek A
+B30,Gärtner/in,EFZ,Natur,3,Sek B
+B31,Polygraf/in,EFZ,Druck,4,Sek A
+B32,Fachmann/Fachfrau Kundendialog,EFZ,"Wirtschaft, Verwaltung",3,Sek B
