@@ -110,6 +110,9 @@ def bigquery_load(project_id, blob_uri, target_dataset, target_table, location, 
 
         print(f'Print some metadata of table {table}')
         print(t.num_rows, [f.name for f in t.schema])
+        
+        if t.num_rows < 1:
+            raise ValueError(f'Table {table} has 0 rows after load. Check source file {blob_uri}.')
 
     except Exception as e:
         print(f'Error loading the blob {blob_uri} to Big Query')
